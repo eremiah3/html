@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+}
+span{
+    color: orangered;
+}
+.bi-list{
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-left: 20px;
+}
+.btn-btn{
+    background-color: black;
+    color: #fff;
+    border: none;
+    height:37px;
+    width:150px
+}
+.btn-bt{
+    height:37px;
+    border: none;
+    background-color: black;
+    color: #fff;
+    width: 40px;
+    margin-left: 08px;
+}
+.hero-pic{
+    height: 300px;
+    /* margin-left: 30px; */
+    margin-top: 10px;
+}
+ .body-text{
+    margin-top: 50px;
+}
+.body-pic{
+    height: 150px;
+    margin-left: 50px;
+}
+.web{
+    margin-top: 50px;
+}
+.body-picture{
+    margin-top: 30px;
+}
+.col-sm-6-products{
+    text-align: center;
+}
+.row-sm{
+    margin-top: 30px;
+}
+.text{
+    margin-top: 50px;
+}
+img{
+    margin-left: 20px;
+}
+.col-sm-5{
+   margin-top: 5px;
+}
+.col-sm-by{
+    text-align: center;
+}
