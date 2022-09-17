@@ -60,4 +60,45 @@ img{
 }
 .col-sm-by{
     text-align: center;
+    position: relative;
+
+}
+/* .bt-line{
+    background-color: black;
+    height: 1px;
+    width: 400px;
+   
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+} */
+.bt-pic{
+    width: 90px;
+    /* display: flex; */
+ 
+}
+.picture{
+ display: flex;
+}
+.bt-pic{
+    width: 90px;
+    /* display: flex; */
+ 
+}
+.bt-picu{
+    width: 90px;
+    height: 30px;
+}
+.bt-pict{
+    width: 90px;
+    margin-top: -30px; 
+}
+.bt-pictu{
+    width: 90px;
+}
+.bt-picture{
+    width: 90px;
+}
+.col-sm-6-be{
+    text-align: center;
 }
