@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    padding: 0px;
 }
 span{
     color: orangered;
@@ -15,7 +16,8 @@ span{
     color: #fff;
     border: none;
     height:37px;
-    width:150px
+    width:150px;
+    padding: 5px;
 }
 .btn-bt{
     height:37px;
